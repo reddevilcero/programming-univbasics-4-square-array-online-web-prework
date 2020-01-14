@@ -4,6 +4,7 @@ def square_array(array)
 
  for n in array
    new_array << n**n
+   puts n
    end
   new_array
 end
